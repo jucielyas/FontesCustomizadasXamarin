@@ -1,0 +1,12 @@
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\bin\Debug\netstandard2.0\FontesCustomizadas.deps.json
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\bin\Debug\netstandard2.0\FontesCustomizadas.dll
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\bin\Debug\netstandard2.0\FontesCustomizadas.pdb
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.csprojAssemblyReference.cache
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.csproj.CoreCompileInputs.cache
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.AssemblyInfoInputs.cache
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.AssemblyInfo.cs
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.dll
+F:\Repositorios\Projetos\FontesCustomizadas\FontesCustomizadas\FontesCustomizadas\obj\Debug\netstandard2.0\FontesCustomizadas.pdb

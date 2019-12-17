@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FontesCustomizadas.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <OnPlatform x:TypeArguments="x:String" x:Key="FontCustom">
+                <On Platform="Android" Value="LilitaOne-Regular.ttf#LilitaOne-Regular" />
+                <On Platform="UWP" Value="/Assets/LilitaOne-Regular.ttf#LilitaOne-Regular" />
+                <On Platform="iOS" Value="LilitaOne-Regular" />
+            </OnPlatform>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
