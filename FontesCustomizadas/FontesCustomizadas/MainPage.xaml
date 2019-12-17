@@ -5,7 +5,7 @@
              x:Class="FontesCustomizadas.MainPage">
 
     <StackLayout VerticalOptions="Center" Padding="20">
-        <!-- Place new controls here -->
+        <!-- Link para baixar as fontes: https://fonts.google.com/ -->
         <Label Text="Welcome to Xamarin Forms! (Com a fonte)" FontSize="22" FontFamily="{StaticResource FontCustom}" />
         <Label Text="Welcome to Xamarin Forms! (Default)" FontSize="22" />
     </StackLayout>
